@@ -108,6 +108,7 @@ p {
 
   h5 {
     font-size: 14px;
+    text-align: center;
   }
   p {
     font-size: 12px;
@@ -115,5 +116,10 @@ p {
 
   .email-link {
     font-size: 12px;
+  }
+
+  .card {
+    text-align: center;
+    margin: 0 auto;
   }
 }
